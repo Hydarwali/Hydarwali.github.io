@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Welcome to my website!</h1>
-    <p>My name is [Your Name] and I am a [Your Job/Occupation].</p>
+    <p>My name is [Aliyu Wali] and I am a [Project Manager].</p>
     <p>On this website, you'll find information about my background, my interests, and my work.</p>
     <nav>
         <ul>
