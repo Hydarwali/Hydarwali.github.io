@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Website</title>
+  </head>
+  <body>
+    <h1>Welcome to my website!</h1>
+    <p>My name is [Your Name] and I am a [Your Job/Occupation].</p>
+    <p>On this website, you'll find information about my background, my interests, and my work.</p>
+    <nav>
+        <ul>
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+  </body>
+</html>
